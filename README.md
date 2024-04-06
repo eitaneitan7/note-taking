@@ -32,3 +32,36 @@ This project is a simple note-taking application built with the MERN stack (Mong
    ```bash
    git clone https://github.com/yourGithubUsername/yourProjectName.git
    cd yourProjectName/backend
+
+2. Install dependencies:
+    npm install
+
+3. Create a `.env` file in the `backend` directory and configure your MongoDB URI:
+    MONGODB_URI=your_mongodb_uri_here
+
+4. Start the backend server:
+    nodemon server.js
+
+
+
+#### Frontend
+
+1. From the project root, navigate to the `frontend` directory:
+    cd ../frontend
+
+2. Install dependencies:    
+    npm install
+
+3. Start the frontend development server:
+    npm run dev
+
+4. Open http://localhost:3000 in your browser to view the application.
+
+## Contributing
+
+Contributions to enhance the functionality, fix bugs, or improve the documentation are welcome. Please feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
