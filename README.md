@@ -47,6 +47,7 @@ This project is a simple note-taking application built with the MERN stack (Mong
 #### Frontend
 
 1. From the project root, navigate to the `frontend` directory:
+ ```bash
     cd ../frontend
 
 2. Install dependencies:    
