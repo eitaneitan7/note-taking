@@ -60,7 +60,7 @@ This project is a simple note-taking application built with the MERN stack (Mong
 ```bash
     npm run dev
 ```
-4. Open http://localhost:3000 in your browser to view the application.
+4. Open http://localhost:5174 in your browser to view the application.
 
 ## Contributing
 
