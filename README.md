@@ -49,20 +49,20 @@ This project is a simple note-taking application built with the MERN stack (Mong
 1. From the project root, navigate to the `frontend` directory:
  ```bash
     cd ../frontend
+  ``` 
 
 2. Install dependencies:    
+```bash
     npm install
+``` 
 
 3. Start the frontend development server:
+```bash
     npm run dev
-
+```
 4. Open http://localhost:3000 in your browser to view the application.
 
 ## Contributing
 
 Contributions to enhance the functionality, fix bugs, or improve the documentation are welcome. Please feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
